@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main() {
+    char ch;
+    cout << "Enter a Lowercase Character : ";
+    cin.get(ch);
+    ch=ch-32;
+    cout << "The Uppercase Character : ";
+    cout.put(ch);
+    cout << end1;
+    }
